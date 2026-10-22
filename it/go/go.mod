@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.15.0
-	github.com/microsoft/kiota-abstractions-go v1.11.2
+	github.com/microsoft/kiota-abstractions-go v1.11.3
 	github.com/microsoft/kiota-authentication-azure-go v1.3.1
 	github.com/microsoft/kiota-http-go v1.5.8
 	github.com/microsoft/kiota-serialization-form-go v1.1.4
